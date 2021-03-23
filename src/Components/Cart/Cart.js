@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import CartColumns from "./CartColumns";
 import EmptyCart from './EmptyCart';
-import { ProductConsumer} from 'C:/Users/vamik/Desktop/e-comm/src/Context.js';
+import { ProductConsumer} from 'C:/Users/vamik/Desktop/Online-Store-React/src/Context.js';
 import CartList from './CartList';
 import CartTotals from './CartTotals';
 
